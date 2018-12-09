@@ -1,0 +1,19 @@
+{
+  "name": "super-notes",
+  "version": "1.0.0",
+  "description": "A tool for making notes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "David Skaife",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
